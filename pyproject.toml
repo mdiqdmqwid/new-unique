@@ -1,0 +1,19 @@
+[project]
+name = "free-unique-new"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.13"
+dependencies = [
+    "colorama>=0.4.6",
+    "curl-cffi>=0.16.3",
+    "fastapi>=0.156.4",
+    "ffmpeg-python>=0.2.0",
+    "numpy>=2.5.4",
+    "pillow>=13.0.0",
+    "pycryptodome>=4.1.0",
+    "pyperclip>=1.11.0",
+    "pywebview==6.2.1",
+    "pywin32>=312",
+    "requests>=2.34.2",
+    "uvicorn>=0.54.0",
+]
